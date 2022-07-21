@@ -1,0 +1,196 @@
+body{
+    background-image: url("image.jpeg");
+}
+.first{
+    background-image: url("first.jpeg");
+    height: 700px;
+    background-repeat: no-repeat;
+    width: 1000px;
+    background-size: contain;
+    position: relative;
+    left: 200px;
+    bottom: 790px;
+
+}
+.second{
+    background-image: url("second.jpeg");
+    
+    height: 1000px;
+    background-repeat: no-repeat;
+    width: 470px;
+    background-size: contain;
+    position: relative;
+    left: 600px;
+
+
+}
+.seca{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto;
+
+    
+
+}
+
+.secaa{
+    color: white;
+}
+.secb{
+    color: white;
+    position: relative;
+    left: 250px;
+    top: 60px;
+}
+.secc{ display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 150px;
+    column-gap: 10px;
+    flex-wrap: wrap;
+
+}
+.seccc{
+    color: white;
+    background-color:  #292b33;
+    border-style: hidden;
+    flex: 1 0 50px;
+    font-size: small;
+}
+footer{
+    background-color: #12141a;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    position: relative;
+    top: 300px;
+    height: 100px;
+    padding-top: 40px;
+
+}
+.content{
+
+    color: white;
+}
+.cont{
+    list-style-type: none;
+}
+.secd{
+    background-color:  #1d2029;
+    width: 400px;
+    position: relative;
+    bottom: 0px;
+    top: 20px;
+    left: 40px;
+    padding-left: 20px;
+    color: white;
+
+}
+
+.con{
+    background-color: white;
+    border-style: hidden;
+    border-radius: 10px;
+    height: 20px;
+    margin-top: 10px;
+    width: 270px;
+}
+.cona{
+    background-color: rgb(22, 56, 148);
+    border-style: hidden;
+    border-radius: 10px;
+    height: 20px;
+    margin-top: 10px;
+    width: 100px;
+    position: relative;
+    left: 280px;
+    bottom: 30px;
+    color: white;
+    padding-left: 10px;
+}
+nav{
+    color: white;
+    word-spacing: 20px;
+    padding-left: 230px;
+}
+.fira{
+    color: white;
+    position: relative;
+    top: 200px;
+    width: 300px;
+    padding-left: 60px;
+    left: 100px;
+}
+.firb{
+    background-color: turquoise;
+    border-style: hidden;
+    border-radius: 20px;
+    width: 150px;
+    position: relative;
+    top: 210px;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    left: 170px;
+}
+.icons{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto;
+    
+    position: relative;
+    top: 220px;
+    width: 370px;
+    left: 60px;
+
+}
+.icona{
+
+    border-style: hidden;
+   
+    
+   
+    color: white;
+}
+.iconb{
+    border-style: hidden;
+   
+    
+    
+    color: white;
+    
+}
+.iconc{
+    border-style: hidden;
+    
+    
+   
+    color: white;
+    
+}
+.icond{
+    border-style: hidden;
+    
+    
+   
+   
+    background-position: center;
+    color: white;
+    
+}
+img{
+    background-color: white;
+    position: relative;
+    left: 70px;
+}
+.last{
+    color: white;
+    position: relative;
+    left: 190px;
+}
+
+
+
+
+
+
+
